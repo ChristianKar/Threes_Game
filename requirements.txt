@@ -1,0 +1,8 @@
+# Requirements with version
+# The following versions are recommended to run the game but other versions may also work
+numpy==1.21.4
+pygame==2.1.0
+pytest==6.2.5
+
+# for the playsound module, the following version is mandatory to run the game properly
+playsound==1.2.2
